@@ -1,7 +1,4 @@
-COMP-2406 Project Submission
-R Routly (101183371), Z Ali (101186150)
-
-The project report can be found in this folder under the name: Razara_Movie_Database_Project_Report
+Razara Movie Database
 
 Running the Server
 - Ensure the mongod daemon is running on your computer but navigating to the ‘bin’ file of the MongoDB program and running the command ‘mongod’. This must remain open in a separate terminal window while the project is tested.
